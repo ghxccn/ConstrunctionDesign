@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RBB</Name>
+    <Assembly>ClassLibrary6.dll</Assembly>
+    <ClientId>6f371b4e-db08-4eac-b420-4bf8aae62545</ClientId>
+    <FullClassName>ConstructionDesign.RBB</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>ClassLibrary6.dll</Assembly>
+    <ClientId>b69162f8-5b1e-419a-ac4e-f42f4bb18d80</ClientId>
+    <FullClassName>ConstructionDesign.gaodamuban</FullClassName>
+    <Text>gaodamuban</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

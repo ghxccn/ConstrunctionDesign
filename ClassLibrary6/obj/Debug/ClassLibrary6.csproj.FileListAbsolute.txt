@@ -1,0 +1,6 @@
+E:\OneDrive\model\C#\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.dll
+E:\OneDrive\model\C#\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.pdb
+E:\OneDrive\model\C#\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.csproj.AssemblyReference.cache
+E:\OneDrive\model\C#\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.csproj.CoreCompileInputs.cache
+E:\OneDrive\model\C#\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.dll
+E:\OneDrive\model\C#\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.pdb
